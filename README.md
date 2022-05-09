@@ -1,0 +1,2 @@
+# .alacritty
+My alacritty configuration.
