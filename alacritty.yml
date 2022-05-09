@@ -1,0 +1,18 @@
+import:
+  - ~/.config/alacritty/font.yml
+  - ~/.config/alacritty/aquarium_theme.yml
+
+env:
+  TERM: rxvt-unicode-256color
+
+cursor:
+  style:
+    blinking: On
+  unfocused_hollow: false
+
+window:
+  decorations: full
+  dynamic_title: true
+  opacity: 0.8
+
+live_config_reload: true

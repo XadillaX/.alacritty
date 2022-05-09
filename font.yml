@@ -1,0 +1,15 @@
+font:
+  normal:
+    family: FantasqueSansMono Nerd Font Mono
+    style: Regular
+
+  italic:
+    style: Italic
+
+  bold:
+    style: Bold
+
+  bold_italic:
+    style: Bold Italic
+
+  size: 14
